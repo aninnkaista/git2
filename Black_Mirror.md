@@ -7,6 +7,7 @@
 
 ## Season 02
 * Be Right Back
+* White Bear
 * The Waldo Moment
 * White Christmas
 
